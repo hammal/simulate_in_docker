@@ -1,0 +1,20 @@
+{
+    "name": "cbadc dev image",
+    "dockerFile": "../Dockerfile",
+    "extensions": [
+        "eamodio.gitlens",
+        "wholroyd.jinja",
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "xuanli.spice",
+        "vscode-icons-team.vscode-icons",
+        "redhat.vscode-yaml",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "ms-python.isort",
+        "mutantdino.resourcemonitor",
+        "mshr-h.veriloghdl",
+        "ms-toolsai.jupyter",
+    ]
+}

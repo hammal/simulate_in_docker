@@ -1,0 +1,15 @@
+/.pytest_cache
+/__pycache__
+/bode.png
+/dither_sequence_17517308841.txt
+/dither_sequence_17517347937.txt
+/filter.npy
+/imp.png
+/ngspice_sim.stderr
+/ngspice_sim.stdout
+/s_training.npy
+/test.cir
+/test.raw
+/train.cir
+/train_blob
+/training_dist.png
